@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# Github-Card
+React app. Renders mini user profiles using the Github API
+
+Copy paste user data using the Github API
+https://api.github.com/users/username
+
+Example
+https://api.github.com/users/ALONPC
+>>>>>>> d097f5194fefc515bf12b6c1b4f67011ac4aff11
