@@ -1,6 +1,14 @@
+html {
+    margin: 10px;
+}
+
 .info{
     display: inline-block;
     margin: 10px;
+}
+
+.card{
+    border: 1px solid grey;
 }
 
 .picture{
@@ -26,4 +34,24 @@
     font-size: 0.75em;
     color: #ad1820;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.no-data {
+    text-transform: uppercase;
+    text-decoration: line-through;
+    color: rgb(0, 20, 107);
+}
+
+.suggestion {
+    margin-left: 20px;
+    font-size: 0.5em;
+    display: inline;
+    color: #291291;
+}
+
+.error {
+    margin-left: 10px;
+    font-weight: bold;
+    display: inline-block;
+    color: red;
 }

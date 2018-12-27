@@ -1,4 +1,5 @@
-let data = [
+let cardCollection = {
+    cards: [
     {
         "login": "ALONPC",
         "id": 15879751,
@@ -31,7 +32,8 @@ let data = [
         "following": 0,
         "created_at": "2015-11-16T23:02:10Z",
         "updated_at": "2018-12-14T16:03:38Z"
-    }, {
+    }, 
+    {
         "login": "adbernal",
         "id": 31907186,
         "node_id": "MDQ6VXNlcjMxOTA3MTg2",
@@ -96,7 +98,7 @@ let data = [
         "created_at": "2016-11-15T00:00:17Z",
         "updated_at": "2017-09-13T19:14:39Z"
       }
+    ]
+}
 
-]
-
-export default data;
+export default cardCollection;
