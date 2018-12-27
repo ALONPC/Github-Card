@@ -1,0 +1,29 @@
+.info{
+    display: inline-block;
+    margin: 10px;
+}
+
+.picture{
+    width: 75px;
+    height: auto;
+}
+
+.name {
+    font-size: 1.25em;
+    font-weight: bold;
+    color: #127591;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nickname {
+    font-size: 1em;
+    font-weight: bold;
+    color: #291291;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.company {
+    font-size: 0.75em;
+    color: #ad1820;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
